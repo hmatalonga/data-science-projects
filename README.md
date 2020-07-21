@@ -12,11 +12,15 @@ This is a collection of Data Science projects for learning and exploration purpo
 
 Projects were built using a combination of different libraries and tools and the most used were [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org) and [Tensorflow 2](https://www.tensorflow.org/) with [Keras](https://www.tensorflow.org/guide/keras/overview) API. The dependencies for each project is included in a `requirements.txt` file. For projects where the data-sets were auto-generated or scraped a `data` folder is present.
 
+**Blog**
+
+For some projects I have written a dedicated blog post in my website. The projects with a blog post have a :memo: icon link next to the project name.
+
 ### Supervised Learning
 
-|     | Project                                      | Notebook      | Blog | Tags             | Dataset    |
-| --- | -------------------------------------------- | ------------- | ---- |---------------- | ---------- |
-| ![Titanic](assets/titanic.jpg) | [Titanic: Machine Learning from Disaster](notebooks/titanic/titanic.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb) | [:memo:](https://hmatalonga.com/blog) | `Classification`, `Kaggle` | [Titanic](https://www.kaggle.com/c/titanic/data) |
+|     | Project                                      | Notebook      | Tags             | Dataset    |
+| --- | -------------------------------------------- | ------------- | ---------------- | ---------- |
+| ![Titanic](assets/titanic.jpg) | [Titanic: Machine Learning from Disaster](notebooks/titanic/titanic.ipynb) [:memo:](https://hmatalonga.com/blog) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb) | `Classification`, `Kaggle` | [Titanic](https://www.kaggle.com/c/titanic/data) |
 
 <!-- ### Unsupervised Learning
 
