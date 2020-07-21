@@ -14,11 +14,11 @@ Projects were built using a combination of different libraries and tools and the
 
 ### Supervised Learning
 
-|     | Project                                      | Notebook      | Topics           | Dataset    |
-| --- | -------------------------------------------- | ------------- | ---------------- | ---------- |
-| ![Titanic](assets/titanic.jpg) | [Titanic: Machine Learning from Disaster](notebooks/titanic/titanic.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb) | `Classification` | [Titanic](https://www.kaggle.com/c/titanic/data) |
+|     | Project                                      | Notebook      | Blog | Tags             | Dataset    |
+| --- | -------------------------------------------- | ------------- | ---- |---------------- | ---------- |
+| ![Titanic](assets/titanic.jpg) | [Titanic: Machine Learning from Disaster](notebooks/titanic/titanic.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb) | [:memo:](https://hmatalonga.com/blog) | `Classification`, `Kaggle` | [Titanic](https://www.kaggle.com/c/titanic/data) |
 
-### Unsupervised Learning
+<!-- ### Unsupervised Learning
 
 ### Reinforcement Learning
 
@@ -30,4 +30,6 @@ Projects were built using a combination of different libraries and tools and the
 
 ### Recommender Systems
 
-### Others
+### Others 
+
+### Competitions -->
