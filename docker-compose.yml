@@ -5,4 +5,5 @@ services:
     ports:
       - "8888:8888"
     volumes: 
-      - ./notebooks:/home/jovyan
+      - ./assets:/home/jovyan/assets
+      - ./notebooks:/home/jovyan/notebooks

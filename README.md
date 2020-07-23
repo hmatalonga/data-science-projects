@@ -18,7 +18,7 @@ Projects were built using a combination of different libraries and tools and the
 
 |     | Project                                      | Notebook      | Tags             | Dataset    |
 | --- | -------------------------------------------- | ------------- | ---------------- | ---------- |
-| ![Titanic](assets/titanic.jpg) | [Titanic: Machine Learning from Disaster](notebooks/titanic/titanic.ipynb) [:memo:](https://hmatalonga.com/blog) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb) | `Classification`, `Kaggle` | [Titanic](https://www.kaggle.com/c/titanic/data) |
+| <img src="assets/titanic.jpg" alt="Titanic" width="150" /> | [Titanic: Machine Learning from Disaster](notebooks/titanic/titanic.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb) | `Classification`, `Kaggle` | [Titanic](https://www.kaggle.com/c/titanic/data) |
 
 <!-- ### Unsupervised Learning
 
@@ -40,6 +40,8 @@ Projects were built using a combination of different libraries and tools and the
 
 To run the repository locally, I suggest using docker to launch a [Jupyter Notebook](https://jupyter.org/) server.
 
+It is based on the [jupyter/tensorflow-notebook](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-tensorflow-notebook) which includes popular packages from the scientific Python ecosystem.
+
 ### Requirements
 
 - [Docker](https://docs.docker.com/get-docker/)
@@ -53,7 +55,7 @@ Run Jupyter with `docker-compose` and open the link shown on your terminal (some
 $ docker-compose up
 ```
 
-The projects will be available under `/home/jovyan` inside the container.
+The projects will be available under `notebooks` folder.
 
 ### Configuration
 
