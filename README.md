@@ -16,25 +16,71 @@ Projects were built using a combination of different libraries and tools and the
 
 ### Supervised Learning
 
-|     | Project                                      | Notebook      | Tags             | Dataset    |
-| --- | -------------------------------------------- | ------------- | ---------------- | ---------- |
-| <img src="assets/titanic.jpg" alt="Titanic" width="150" /> | [Titanic: Machine Learning from Disaster](notebooks/titanic/titanic.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb) | `Classification`, `Kaggle` | [Titanic](https://www.kaggle.com/c/titanic/data) |
+<table>
+  <thead>
+    <th>&nbsp;</th>
+    <th>Project</th>
+    <th>Notebook</th>
+    <th>Tags</th>
+    <th>Dataset</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="150"><img src="assets/titanic.jpg" alt="Titanic" width="150" /></td>
+      <td width="250"><a href="notebooks/titanic/titanic.ipynb">Titanic: Machine Learning from Disaster</a></td>
+      <td>
+        <a href="https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+        </a>
+      </td>
+      <td width="150">
+        <code>Classification</code>, <code>Kaggle</code>
+      </td>
+      <td width="150"><a href="https://www.kaggle.com/c/titanic/data">Titanic</a></td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- ### Unsupervised Learning
+<!-- ### Unsupervised Learning -->
 
-### Reinforcement Learning
+<!-- ### Reinforcement Learning -->
 
-### Statistics
+<!-- ### Statistics -->
 
 ### Exploratory Data Analysis
 
-### Natural Language Processing
+<table>
+  <thead>
+    <th>&nbsp;</th>
+    <th>Project</th>
+    <th>Notebook</th>
+    <th>Tags</th>
+    <th>Dataset</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="150"><img src="assets/palmerpenguins.jpg" alt="palmerpenguins" width="150" /></td>
+      <td width="250"><a href="notebooks/palmerpenguins/palmerpenguins.ipynb">palmerpenguins</a></td>
+      <td>
+        <a href="https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/palmerpenguins/palmerpenguins.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+        </a>
+      </td>
+      <td width="150">
+        <code>EDA</code>, <code>Data Visualization</code>
+      </td>
+      <td width="150"><a href="https://allisonhorst.github.io/palmerpenguins/index.html">palmerpenguins</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### Recommender Systems
+<!-- ### Natural Language Processing -->
 
-### Others 
+<!-- ### Recommender Systems -->
 
-### Competitions -->
+<!-- ### Others  -->
+
+<!-- ### Competitions -->
 
 ## Setup
 
