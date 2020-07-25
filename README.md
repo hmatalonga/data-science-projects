@@ -27,16 +27,19 @@ Projects were built using a combination of different libraries and tools and the
   <tbody>
     <tr>
       <td width="150"><img src="assets/titanic.jpg" alt="Titanic" width="150" /></td>
-      <td width="250"><a href="notebooks/titanic/titanic.ipynb">Titanic: Machine Learning from Disaster</a></td>
+      <td width="200"><a href="notebooks/titanic/titanic.ipynb">Titanic: Machine Learning from Disaster</a></td>
       <td>
+        <a href="https://mybinder.org/v2/gh/hmatalonga/kaggle-titanic/master?filepath=notebooks/titanic/titanic.ipynb">
+          <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+        </a></br>
         <a href="https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
         </a>
       </td>
-      <td width="150">
+      <td width="140">
         <code>Classification</code>, <code>Kaggle</code>
       </td>
-      <td width="150"><a href="https://www.kaggle.com/c/titanic/data">Titanic</a></td>
+      <td width="140"><a href="https://www.kaggle.com/c/titanic/data">Titanic</a></td>
     </tr>
   </tbody>
 </table>
@@ -60,16 +63,19 @@ Projects were built using a combination of different libraries and tools and the
   <tbody>
     <tr>
       <td width="150"><img src="assets/palmerpenguins.jpg" alt="palmerpenguins" width="150" /></td>
-      <td width="250"><a href="notebooks/palmerpenguins/palmerpenguins.ipynb">palmerpenguins</a></td>
+      <td width="200"><a href="notebooks/palmerpenguins/palmerpenguins.ipynb">Palmer Antarctica Penguins (EDA)</a></td>
       <td>
+        <a href="https://mybinder.org/v2/gh/hmatalonga/kaggle-titanic/master?filepath=notebooks/palmerpenguins/palmerpenguins.ipynb">
+          <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+        </a></br>
         <a href="https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/palmerpenguins/palmerpenguins.ipynb">
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
         </a>
       </td>
-      <td width="150">
-        <code>EDA</code>, <code>Data Visualization</code>
+      <td width="140">
+        <code>Data Visualization</code>
       </td>
-      <td width="150"><a href="https://allisonhorst.github.io/palmerpenguins/index.html">palmerpenguins</a></td>
+      <td width="140"><a href="https://allisonhorst.github.io/palmerpenguins/index.html">palmerpenguins</a></td>
     </tr>
   </tbody>
 </table>
