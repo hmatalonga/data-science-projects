@@ -18,11 +18,11 @@ Projects were built using a combination of different libraries and tools and the
 
 <table>
   <thead>
-    <th>&nbsp;</th>
-    <th>Project</th>
-    <th>Notebook</th>
-    <th>Tags</th>
-    <th>Dataset</th>
+    <th width="150" style="width: 150px !important">&nbsp;</th>
+    <th width="200" style="width: 200px !important">Project</th>
+    <th width="150" style="width: 150px !important">Notebook</th>
+    <th width="150" style="width: 150px !important">Tags</th>
+    <th width="150" style="width: 150px !important">Dataset</th>
   </thead>
   <tbody>
     <tr>
@@ -36,10 +36,10 @@ Projects were built using a combination of different libraries and tools and the
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
         </a>
       </td>
-      <td width="140">
+      <td width="150">
         <code>Classification</code>, <code>Kaggle</code>
       </td>
-      <td width="140"><a href="https://www.kaggle.com/c/titanic/data">Titanic</a></td>
+      <td width="150"><a href="https://www.kaggle.com/c/titanic/data">Titanic</a></td>
     </tr>
   </tbody>
 </table>
@@ -54,11 +54,11 @@ Projects were built using a combination of different libraries and tools and the
 
 <table>
   <thead>
-    <th>&nbsp;</th>
-    <th>Project</th>
-    <th>Notebook</th>
-    <th>Tags</th>
-    <th>Dataset</th>
+    <th width="150" style="width: 150px !important">&nbsp;</th>
+    <th width="200" style="width: 200px !important">Project</th>
+    <th width="150" style="width: 150px !important">Notebook</th>
+    <th width="150" style="width: 150px !important">Tags</th>
+    <th width="150" style="width: 150px !important">Dataset</th>
   </thead>
   <tbody>
     <tr>
@@ -72,10 +72,10 @@ Projects were built using a combination of different libraries and tools and the
           <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
         </a>
       </td>
-      <td width="140">
+      <td width="150">
         <code>Data Visualization</code>
       </td>
-      <td width="140"><a href="https://allisonhorst.github.io/palmerpenguins/index.html">palmerpenguins</a></td>
+      <td width="150"><a href="https://allisonhorst.github.io/palmerpenguins/index.html">palmerpenguins</a></td>
     </tr>
   </tbody>
 </table>
