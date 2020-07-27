@@ -52,7 +52,7 @@ Projects were built using a combination of different libraries and tools and the
 
 ### Exploratory Data Analysis
 
-<table>
+<!-- <table>
   <thead>
     <th width="150" style="width: 150px !important">&nbsp;</th>
     <th width="200" style="width: 200px !important">Project</th>
@@ -78,7 +78,7 @@ Projects were built using a combination of different libraries and tools and the
       <td width="150"><a href="https://allisonhorst.github.io/palmerpenguins/index.html">palmerpenguins</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- ### Natural Language Processing -->
 
