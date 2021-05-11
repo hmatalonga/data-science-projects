@@ -27,7 +27,8 @@ Projects were built using a combination of different libraries and tools and the
   <tbody>
     <tr>
       <td width="150"><img src="assets/titanic.jpg" alt="Titanic" width="150" /></td>
-      <td width="200"><a href="notebooks/titanic/titanic.ipynb">Titanic: Machine Learning from Disaster</a></td>
+      <td width="200"><a href="notebooks/titanic/titanic.ipynb">Titanic: Machine Learning from Disaster</a>
+      <a href="https://hmatalonga.com/blog/kaggle-titanic-challenge" target="_blank">:memo:</a></td>
       <td>
         <a href="https://mybinder.org/v2/gh/hmatalonga/kaggle-titanic/master?filepath=notebooks/titanic/titanic.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
