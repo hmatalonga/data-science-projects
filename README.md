@@ -42,6 +42,22 @@ Projects were built using a combination of different libraries and tools and the
       </td>
       <td width="150"><a href="https://www.kaggle.com/c/titanic/data">Titanic</a></td>
     </tr>
+    <tr>
+      <td width="150"><img src="assets/credit-card.jpg" alt="Credit Card Fraud Detection" width="150" /></td>
+      <td width="200"><a href="notebooks/credit-card/credit-card.ipynb">Credit Card Fraud Detection</a></td>
+      <td>
+        <a href="https://mybinder.org/v2/gh/hmatalonga/data-science-projects/master?filepath=notebooks/credit-card/credit-card.ipynb">
+          <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+        </a></br>
+        <a href="https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/credit-card/credit-card.ipynb">
+          <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+        </a>
+      </td>
+      <td width="150">
+        <code>Imbalanced Classification</code>, <code>Kaggle</code>
+      </td>
+      <td width="150"><a href="https://www.kaggle.com/mlg-ulb/creditcardfraud/data">Credit Card Fraud Detection</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -51,7 +67,7 @@ Projects were built using a combination of different libraries and tools and the
 
 <!-- ### Statistics -->
 
-### Exploratory Data Analysis
+<!-- ### Exploratory Data Analysis -->
 
 <!-- <table>
   <thead>
