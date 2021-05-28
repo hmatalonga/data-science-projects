@@ -38,13 +38,14 @@ Projects were built using a combination of different libraries and tools and the
         </a>
       </td>
       <td width="150">
-        <code>Classification</code>, <code>Kaggle</code>
+        <code>Classification</code>
       </td>
       <td width="150"><a href="https://www.kaggle.com/c/titanic/data">Titanic</a></td>
     </tr>
     <tr>
       <td width="150"><img src="assets/credit-card.jpg" alt="Credit Card Fraud Detection" width="150" /></td>
-      <td width="200"><a href="notebooks/credit-card">Credit Card Fraud Detection</a></td>
+      <td width="200"><a href="notebooks/credit-card">Credit Card Fraud Detection</a>
+      <a href="https://hmatalonga.com/blog/handling-imbalanced-datasets-fraud-detection" target="_blank">:memo:</a></td>
       <td>
         <a href="https://mybinder.org/v2/gh/hmatalonga/data-science-projects/master?filepath=notebooks/credit-card/credit-card.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
@@ -54,7 +55,7 @@ Projects were built using a combination of different libraries and tools and the
         </a>
       </td>
       <td width="150">
-        <code>Imbalanced Classification</code>, <code>Kaggle</code>
+        <code>Imbalanced Classification</code>
       </td>
       <td width="150"><a href="https://www.kaggle.com/mlg-ulb/creditcardfraud/data">Credit Card Fraud Detection</a></td>
     </tr>
@@ -129,3 +130,8 @@ The projects will be available under `notebooks` folder.
 ### Configuration
 
 Feel free to change any settings of the Jupyter Notebook server by editting the `docker-compose.yml` file.
+
+## Articles
+
+- [:credit_card: Handling Imbalanced Datasets: Fraud Detection Study Case](https://hmatalonga.com/blog/handling-imbalanced-datasets-fraud-detection)
+- [:ship: Predicting the Outcome of the Titanic Passengers](https://hmatalonga.com/blog/kaggle-titanic-challenge)
