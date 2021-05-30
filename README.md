@@ -1,18 +1,19 @@
 # :rocket: Data Science Projects
 
-This is a collection of Data Science projects for learning and exploration purposes. The projects are organized and grouped by subject/topic covering different approaches, algorithms and data-sets. Each project consists of a *Jupyter notebook* and it has its own folder under the `notebooks` folder.
+This is a collection of Data Science projects for learning and exploration purposes. The projects are organized and grouped by subject/topic covering different approaches, algorithms and data-sets. Each project consists of a *Jupyter notebook* and, it has its own folder under the `notebooks` folder.
 
 ---
 
-> :warning: This repository contains code and models experiments and are not production ready, reusable, optimised and fine-tuned code and models. This is rather a sandbox or a playground for learning and trying different data science, machine learning techniques and approaches. Models might not perform well and there is a place for overfitting/underfitting.
+> :warning: This repository contains code and models experiments and are not production-ready, reusable, optimised and fine-tuned code and models. This is rather a sandbox or a playground for learning and trying different data science, machine learning techniques and approaches. Models might not perform well, and there is a place for overfitting/underfitting.
 
 **Acknowledgements:** This repository was originally inspired by [:robot: Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments).
 
 ## Projects
 
-Projects were built using a combination of different libraries and tools and the most used were [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org) and [Tensorflow 2](https://www.tensorflow.org/) with [Keras](https://www.tensorflow.org/guide/keras/overview) API. The dependencies for each project is included in a `requirements.txt` file. For projects where the data-sets were auto-generated or scraped a `data` folder is present.
+Projects were built using different libraries and tools, and the most used were [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org) and [Tensorflow 2](https://www.tensorflow.org/) with [Keras](https://www.tensorflow.org/guide/keras/overview) API. The dependencies for each project is included in a `requirements.txt` file, for projects where the data-sets were auto-generated or scraped, a `data` folder is present.
 
-**Blog:** For some projects I have written a dedicated blog post in my website. The projects with a blog post have a :memo: icon link next to the project name.
+**Blog:** For some projects, I have written a dedicated blog post on my website. The projects with a blog post have an :memo: icon link next to the project name.
+
 
 ### Supervised Learning
 
@@ -110,7 +111,7 @@ Projects were built using a combination of different libraries and tools and the
 
 To run the repository locally, I suggest using docker to launch a [Jupyter Notebook](https://jupyter.org/) server.
 
-It is based on the [jupyter/tensorflow-notebook](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-tensorflow-notebook) which includes popular packages from the scientific Python ecosystem.
+It is based on the [jupyter/tensorflow-notebook](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-tensorflow-notebook), which includes popular packages from the scientific Python ecosystem.
 
 ### Requirements
 
@@ -125,11 +126,11 @@ Run Jupyter with `docker-compose` and open the link shown on your terminal (some
 $ docker-compose up
 ```
 
-The projects will be available under `notebooks` folder.
+The projects will be available under the `notebooks` folder.
 
 ### Configuration
 
-Feel free to change any settings of the Jupyter Notebook server by editting the `docker-compose.yml` file.
+Feel free to change any settings of the Jupyter Notebook server by editing the `docker-compose.yml` file.
 
 ## Articles
 
