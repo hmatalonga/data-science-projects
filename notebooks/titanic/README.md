@@ -8,3 +8,7 @@ In this project I will explore different machine learning techniques to create a
 After doing some of [Kaggle micro courses](https://www.kaggle.com/learn/overview), this competition was recommended to get familiar with ML basics and to learn how Kaggle competions work.
 
 This [Kaggle competition](https://www.kaggle.com/c/titanic) is a classic beginner project and it was one of the first projects, so I find it interesting to revisit this challenge from time to time and experiment new ideas, and hopefully improve my submission score :smile:
+
+I have written a blog post about this project. You can read it here:
+
+[:ship: Predicting the Outcome of the Titanic Passengers](https://hmatalonga.com/blog/kaggle-titanic-challenge)
