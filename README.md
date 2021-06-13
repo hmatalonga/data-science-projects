@@ -31,7 +31,7 @@ Projects were built using different libraries and tools, and the most used were 
       <td width="200"><a href="notebooks/titanic">Titanic: Machine Learning from Disaster</a>
       <a href="https://hmatalonga.com/blog/kaggle-titanic-challenge" target="_blank">:memo:</a></td>
       <td>
-        <a href="https://mybinder.org/v2/gh/hmatalonga/kaggle-titanic/master?filepath=notebooks/titanic/titanic.ipynb">
+        <a href="https://mybinder.org/v2/gh/hmatalonga/data-science-projects/master?filepath=notebooks/titanic/titanic.ipynb">
           <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
         </a></br>
         <a href="https://colab.research.google.com/github/hmatalonga/data-science-projects/blob/master/notebooks/titanic/titanic.ipynb">
